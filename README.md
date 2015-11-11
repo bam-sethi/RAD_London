@@ -5,8 +5,10 @@ Interactive map of East London, marking the popular historical locations reveali
 <br><br>
 
 ##Heroku
-http://murmuring-ravine-6902.herokuapp.com/places
-(if the site is down you can use this MetaPinger App to wake it up from Heroku Limbo-http://metapinger.herokuapp.com/)
+
+View the Site here: [RadLondon App](http://murmuring-ravine-6902.herokuapp.com/places)
+
+If the site is down you can use this MetaPinger App to wake it up from Heroku Limbo-[MetaPinger](http://metapinger.herokuapp.com/s)  
 ![Frontpage](https://cloud.githubusercontent.com/assets/13486932/10378251/ca572906-6dff-11e5-9213-66902c9db244.png "Front Page")
 
 
